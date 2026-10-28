@@ -15,3 +15,7 @@ Inspired by [girshovich/docs GDPR prompt](https://github.com/girshovich/docs/blo
 U.S. privacy rights are state-specific and subject to eligibility, exclusions, exemptions, and changes. There is no universal federal applicant right to all recruiter notes, scores, or rejection explanations. Even an applicable access law may exclude confidential evaluations, trade secrets, other people's data, or certain employment records. Do not assume every automated hiring decision is unlawful or subject to a disclosure obligation.
 
 This is educational information, not legal advice. Verify current official statutes and regulator guidance before sending a formal legal demand.
+
+## U.S. applicant workflow
+
+Use [US_REQUEST_CATALOG.md](US_REQUEST_CATALOG.md) to see what can be requested, then follow [REQUEST_BUILDER.md](REQUEST_BUILDER.md) to decide between a statutory access request and voluntary feedback. See the [Massachusetts remote-applicant example](examples/MASSACHUSETTS_APPLICANT.md). The [state matrix](STATE_MATRIX.md) is illustrative and not an exhaustive or continuously maintained 50-state survey.
