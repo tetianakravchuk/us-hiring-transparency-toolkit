@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.1",
+  "description": "Evidence-first schema; no claim that all jurisdictions have been verified.",
+  "required_fields": [
+    "jurisdiction",
+    "rule_type",
+    "official_source_url",
+    "verified_on",
+    "effective_from",
+    "applicant_coverage",
+    "employer_coverage",
+    "employment_exclusion",
+    "rights",
+    "confidence"
+  ],
+  "allowed_confidence": [
+    "verified",
+    "needs_review",
+    "unknown"
+  ],
+  "allowed_applicant_coverage": [
+    "covered",
+    "excluded",
+    "conditional",
+    "unknown"
+  ],
+  "example": {
+    "jurisdiction": "US-XX",
+    "rule_type": "employment_data_access",
+    "official_source_url": null,
+    "verified_on": null,
+    "effective_from": null,
+    "applicant_coverage": "unknown",
+    "employer_coverage": "unknown",
+    "employment_exclusion": "unknown",
+    "rights": [],
+    "confidence": "unknown"
+  }
+}
