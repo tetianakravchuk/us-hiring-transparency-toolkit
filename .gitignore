@@ -1,0 +1,8 @@
+# Never commit private applicant records
+private/
+responses/
+completed_requests/
+*.local.csv
+.env
+__pycache__/
+.DS_Store
